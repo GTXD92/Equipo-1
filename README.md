@@ -11,7 +11,7 @@ https://github.com/GTXD92/git_h-4
 
 https://github.com/GTXD92/git_h-5
 
-https://github.com/GTXD92/git_h_6
+https://github.com/GTXD92/git_h_6.git
 
 https://github.com/GTXD92/git_h-7
 
